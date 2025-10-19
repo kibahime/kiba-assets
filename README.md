@@ -8,7 +8,7 @@ Official repository for all Kibahime artwork, emoji, and design references.
 - **website/** – Icons, banners, and site graphics
 - **references/** – Character sheets, palettes, and notes
 
-<img src="emoji/2048x2048/tea.png" alt="happy" width=100>
+<img src="emoji/2048x2048/tea.png" alt="tea" width=100>
 
 ## 💬 Usage
 All emoji are optimized for Discord, GitHub, and websites.
