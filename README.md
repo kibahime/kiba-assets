@@ -3,12 +3,12 @@
 Official repository for all Kibahime artwork, emoji, and design references.
 
 ## 🖼️ Contents
-- **emoji/** – Chibi emoji in PNG, and master 2048×2048 format
+- **emoji/** – Chibi emoji in PNG, and original 8192x8192 format
 - **illustrations/** – Full-body and portrait artwork
 - **website/** – Icons, banners, and site graphics
 - **references/** – Character sheets, palettes, and notes
 
-<img src="emoji/2048x2048/tea.png" alt="tea" width=100>
+<img src="emoji/main/tea.png" alt="tea" width=100>
 
 ## 💬 Usage
 All emoji are optimized for Discord, GitHub, and websites.
